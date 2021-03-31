@@ -177,6 +177,10 @@
     <ClCompile Include="DayChallenges\Day20BubbleSortChallenge.cpp" />
     <ClCompile Include="DayChallenges\Day21GenericChallenge.cpp" />
     <ClCompile Include="DayChallenges\Day23BSTChallenge.cpp" />
+    <ClCompile Include="DayChallenges\Day25CompexityNumbers.cpp" />
+    <ClCompile Include="DayChallenges\Day26NestedLogicChallenge.cpp" />
+    <ClCompile Include="DayChallenges\Day28RegexChallenge.cpp" />
+    <ClCompile Include="DayChallenges\Day29BitwiseANDChallenge.cpp" />
     <ClCompile Include="DayChallenges\Day2DataTypesChallenge.cpp" />
     <ClCompile Include="DayChallenges\Day3OperatorsChallenge.cpp" />
     <ClCompile Include="DayChallenges\Day4ClassVsInstanceChallenge.cpp" />
